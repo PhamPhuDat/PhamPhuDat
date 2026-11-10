@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there, I'm Dainn 👋
+I'm currently learning the fundamental tools and skills for my major - computer science "I have no background in this field before enrolled in this major btw :(("
+Anyways, nice to see yah
+Contact: phamphudat@hcmut.edu.vn (cause i check this mail regularly so i put it here instead of my personal ones)
 <!--
 **PhamPhuDat/PhamPhuDat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
